@@ -1,0 +1,9 @@
+.vscode/*
+c/.vscode/*
+c/*/*.exe
+c++/.vscode/*
+c++/*/*.exe
+java/.vscode/*
+java/*/*.class
+python/.vscode/*
+python/*/*.exe
